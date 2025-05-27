@@ -191,3 +191,5 @@ local function LoadRickHub()
 end
 
 return LoadRickHub
+
+Add library.lua with Rick Hub UI Library
